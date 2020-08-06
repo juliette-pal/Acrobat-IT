@@ -4,12 +4,10 @@
 > https://hackmd.io/TlgDuNmKQV2Auhuqo08mnw
 ## Les différents protagonistes
 <ul>
-  <li>Référent : Stéphane Langlois (pntbr)</li>
   <li>La Zone :</li>
+Ut7</br>
+Codeurs en liberté</br>
+Scopyleft</br>
+<li>Référent : Stéphane Langlois (pntbr)</li>
   </ul>  
-Ut7
-Codeurs en liberté
-Scopyleft
-
-  
 ## Les objectifs
